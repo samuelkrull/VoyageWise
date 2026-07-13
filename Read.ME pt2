@@ -1,0 +1,80 @@
+Features
+🤖 AI-powered travel itinerary generation
+✈️ Flight discovery and trip planning
+🏨 Hotel recommendations
+📍 Interactive destination maps
+💰 Budget estimation and trip cost planning
+📅 Day-by-day itinerary organization
+❤️ Save and manage favorite trips
+📱 Responsive design for desktop and mobile
+🔒 Secure user authentication
+🚀 Tech Stack
+Frontend
+Next.js
+React
+TypeScript
+Tailwind CSS
+shadcn/ui
+Backend
+Supabase
+PostgreSQL
+REST APIs
+AI
+OpenAI API
+Maps & Travel APIs
+Google Maps Platform
+Mapbox
+Amadeus API (optional)
+Skyscanner API (optional)
+Deployment
+Vercel
+Version Control
+Git & GitHub
+📸 Screenshots
+
+Add screenshots of your application here.
+
+Example:
+
+/screenshots/home.png
+/screenshots/planner.png
+/screenshots/itinerary.png
+/screenshots/budget.png
+🎯 Project Goals
+
+Smart Voyage was created to make vacation planning easier by combining AI, travel information, and budget planning into one intuitive platform.
+
+The application aims to:
+
+Open your browser and visit:
+https://provocative-plan-smart-voyage.base44.app
+
+🔮 Future Enhancements
+AI chatbot travel assistant
+Real-time flight price tracking
+Weather forecasting integration
+Collaborative trip planning
+Currency conversion
+Offline itinerary access
+Expense tracking
+Travel document organizer
+Event and attraction recommendations
+Mobile application
+🤝 Contributing
+
+Contributions, ideas, and feature requests are welcome.
+
+Fork the repository.
+Create a new feature branch.
+Commit your changes.
+Submit a pull request.
+📄 License
+
+This project is licensed under the MIT License.
+and Base 44
+👨‍💻 Author
+
+Martin Kouadjo
+
+Aspiring Data Engineer | Software Engineer | AI Engineer
+
