@@ -30,24 +30,10 @@ Deployment
 Vercel
 Version Control
 Git & GitHub
-📸 Screenshots
+Base 44
 
-Add screenshots of your application here.
-
-Example:
-
-/screenshots/home.png
-/screenshots/planner.png
-/screenshots/itinerary.png
-/screenshots/budget.png
 🎯 Project Goals
-
 Smart Voyage was created to make vacation planning easier by combining AI, travel information, and budget planning into one intuitive platform.
-
-The application aims to:
-
-Open your browser and visit:
-https://provocative-plan-smart-voyage.base44.app
 
 🔮 Future Enhancements
 AI chatbot travel assistant
@@ -60,7 +46,7 @@ Expense tracking
 Travel document organizer
 Event and attraction recommendations
 Mobile application
-🤝 Contributing
+ Contributing
 
 Contributions, ideas, and feature requests are welcome.
 
